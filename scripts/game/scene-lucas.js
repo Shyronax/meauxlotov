@@ -3,11 +3,11 @@ export const scenesLucas = [{
 
     story: [
         'Notre histoire débute une chaude soirée d’été, dans un petit pavillon en région parisienne, où on fête la fin des cours.',
-        'Au milieu de la foule de corps et d’émotions, Lucas croise le regard d’une fille posée au minibar, et son cœur s’embrase.',
+        'Au milieu de la foule de corps et d’émotions, Lucas croise le regard d’une fille posée au minibar, et son coeur s’embrase.',
         'Au bout de cinq bonnes minutes d’hésitation, il trouve le courage d’aller faire connaissance.',
-        'Noémie : “Et ben, mieux vaut tard que jamais !"',
-        'Lucas : “Hein ?”',
-        'Noémie : “Ça fait des heures que j’ai cramé que tu me fixais, t’es pas discret, tu sais ?”',
+        'Noémie : “Et ben, mieux vaut tard que jamais!"',
+        'Lucas : “Hein?”',
+        'Noémie : “Ça fait des heures que j’ai cramé que tu me fixais, t’es pas discret, tu sais?”',
         'Noémie : “Bon vas-y, fais ton move.”',
     ],
 
